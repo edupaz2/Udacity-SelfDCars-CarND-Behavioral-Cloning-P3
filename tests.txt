@@ -1,0 +1,17 @@
+STEPS:
+* Get used to the simulator.
+* Record my first data set.
+* Upload to AWS, extract, and update the path as seeing in class.
+* Create simple network and save model to check everything is working.
+* Normalize and mean center data.
+* LeNet architecture.
+* Data augmentation with mirroring.
+* Record a second dataset using the mouse.
+* Data augmentation with side cameras data: goes straight, the follows right sideline, then out.
+* Use additional datasets record recovery steering angles from side to center: car is steering to hard now.
+* Cropping images to remove top and car hood.
+* Do one more lap around first track.
+* Try more powerful architecture.
+
+
+* Use second track as training set too.
